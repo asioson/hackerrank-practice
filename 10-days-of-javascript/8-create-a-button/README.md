@@ -38,12 +38,12 @@ Ask questions in the Discussions forum and submit any bug reports to support@hac
 
 Initially, the button looks like this:
 
-![initial](0.png)
+![initial](img/0.png)
 
 After the first 4 clicks, it looks like this:
 
-![four clicks](4.png)
+![four clicks](img/4.png)
 
 After 5 more clicks, it looks like this:
 
-![final](9.png)
+![final](img/9.png)
