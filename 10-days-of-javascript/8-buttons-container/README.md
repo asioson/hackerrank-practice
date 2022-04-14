@@ -59,10 +59,10 @@ Initially, the buttons look like this:
 
 ![initial](img/start.png)
 
-After clicking btn5  time, they look like this:
+After clicking btn5 1 time, they look like this:
 
 ![click1](img/firstClick.png)
 
-After clicking btn5  more time (for a total of  clicks), they look like this:
+After clicking btn5 1 more time (for a total of 2 clicks), they look like this:
 
 ![last](img/secondClick.png)
