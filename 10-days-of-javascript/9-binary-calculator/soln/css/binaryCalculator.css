@@ -1,0 +1,38 @@
+body {
+    width: 33%;
+}
+
+body > .resultClass {
+    height: 48px; 
+    background-color: lightgray;
+    border: solid;
+    font-size: 20px;
+}
+
+.buttonContainer {
+    width: 100%;
+}
+
+.buttonContainer > .buttonClass {
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
+
+.buttonInp {
+    background-color: lightgreen;
+    color: brown;
+}
+
+.buttonOut {
+    background-color: darkgreen;
+    color: white;
+}
+
+.buttonOp {
+    background-color: black;
+    color: red;
+}
+
