@@ -69,7 +69,7 @@ After pressing the = button to evaluate our expression, the result div looks lik
 
 ![27+8eval](img/2.png)
 
-Notice that (11011)_2 = (27)_10, 100_2 = 8_10, and 100011_2 = 35_10, so our calculator evaluated the expression correctly.
+Notice that (11011)_2 = (27)_10, (100)_2 = (8)_10, and (100011)_2 = (35)_10, so our calculator evaluated the expression correctly.
 
 Now, let's consider our next sequence of button clicks as:
 
