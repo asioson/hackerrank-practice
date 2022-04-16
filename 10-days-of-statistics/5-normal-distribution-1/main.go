@@ -5,7 +5,7 @@ import (
 )
 
 func F(mean, sd, x float64) float64 {
-    return 0.5 * (1 + math.Erf((x - mean) / (2 * math.Sqrt(sd))))
+    return 0.5 * (1 + math.Erf((x - mean) / (sd * math.Sqrt(2))))
 }
 
 func main() {
